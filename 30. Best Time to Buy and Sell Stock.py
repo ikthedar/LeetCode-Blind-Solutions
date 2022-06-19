@@ -1,3 +1,8 @@
+# We used the most common programmin technique "Two Pointers" to solve this problem.
+# No extra memory is used since we just used pointers, no array. So, Space = O(1).
+# Time complexity = O(n), since time is linear here, didn't use any brute force method.
+
+
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         l, r = 0, 1 # Left=buying, right=selling
