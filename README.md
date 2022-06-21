@@ -17,5 +17,5 @@ Easy:
 
 Medium:
 4. Container_With_Most_Water.py (Arrays)
-5. 
+
 67. Counting_Bits.py (Binary)
