@@ -2,6 +2,7 @@
 I like to solve problems and I do the LeetCode problems solutions here to test my analytical skills. I mostly do it using Python.
 
 Easy:
+
 1. Two_Sum.py (Arrays)
 14. Maximum_Subarray.py (Arrays)
 30. Best_Time_to_Buy_and_Sell_Stock.py (Arrays)
@@ -16,6 +17,7 @@ Easy:
 
 
 Medium:
+
 4. Container_With_Most_Water.py (Arrays)
 
 67. Counting_Bits.py (Binary)
