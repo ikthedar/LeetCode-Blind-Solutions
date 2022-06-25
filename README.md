@@ -1,7 +1,7 @@
 # LeetCode-Blind-Solutions
 I like to solve problems and I do the LeetCode problems solutions here to test my analytical skills. I mostly do it using Python.
 
-# Easy:
+Easy:
 
 1. Two_Sum.py (Arrays)
 14. Maximum_Subarray.py (Arrays)
@@ -18,8 +18,9 @@ I like to solve problems and I do the LeetCode problems solutions here to test m
 32. Valid_Palindrome.py (String)
 
 
-# Medium:
+Medium:
 
 4. Container_With_Most_Water.py (Arrays)
 38. Maximum_Product_Subarray.py (Array) / (Solved using Dynamic Programming)
+
 67. Counting_Bits.py (Binary)
