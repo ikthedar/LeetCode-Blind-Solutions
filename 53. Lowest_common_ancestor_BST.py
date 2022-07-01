@@ -10,10 +10,13 @@ class Solution:
         curr = root
         
         while curr:
+            # if given value of p and q both are more then current node(root) value, shift the current node to the right (BST rule)
             if p.val > curr.val and q.val > curr.val:
-                curr = curr.right
+                curr = curr.right 
+            # if given value of p and q both are less then current node(root) value, shift the current node to the left (BST rule)
             elif p.val < curr.val and q.val < curr.val:
                 curr = curr.left
+               
             else:
                 return curr
             
