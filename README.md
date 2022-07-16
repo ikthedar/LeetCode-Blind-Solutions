@@ -23,6 +23,7 @@ Medium:
 
 2. Longest_substring_without_repeating_characters.py (Sliding Window)
 4. Container_With_Most_Water.py (Arrays)
+13. Group_Anagrams.py (Arrays & Hashing)
 38. Maximum_Product_Subarray.py (Array) / (Solved using Dynamic Programming)
 
 67. Counting_Bits.py (Binary)
