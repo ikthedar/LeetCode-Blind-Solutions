@@ -21,6 +21,7 @@ Easy:
 
 Medium:
 
+2. Longest_substring_without_repeating_characters.py
 4. Container_With_Most_Water.py (Arrays)
 38. Maximum_Product_Subarray.py (Array) / (Solved using Dynamic Programming)
 
