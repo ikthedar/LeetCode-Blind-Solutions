@@ -5,7 +5,7 @@ Easy:
 
 1. Two_Sum.py (Arrays)
 14. Maximum_Subarray.py (Arrays)
-30. Best_Time_to_Buy_and_Sell_Stock.py (Arrays)
+30. Best_Time_to_Buy_and_Sell_Stock.py (Arrays)/ Sliding Window
 50. Contains_Duplicat.py (Arrays)
 
 20. Climbing_Stars.py (Dynamic Programming)
@@ -21,7 +21,7 @@ Easy:
 
 Medium:
 
-2. Longest_substring_without_repeating_characters.py
+2. Longest_substring_without_repeating_characters.py (Sliding Window)
 4. Container_With_Most_Water.py (Arrays)
 38. Maximum_Product_Subarray.py (Array) / (Solved using Dynamic Programming)
 
