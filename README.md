@@ -12,7 +12,7 @@ Easy:
 42. House_Robber.py (Dynamic Programming)
 
 41. Number_1_Bits.py (Binary)
-
+Counting_Bits.py
 
 44. Reverse_Linked_List (Linked List)
 41. Linked List Cycle (Linked List)
