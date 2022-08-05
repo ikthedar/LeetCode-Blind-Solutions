@@ -25,6 +25,7 @@ Medium:
 
 2. Longest_substring_without_repeating_characters.py (Sliding Window)
 4. Container_With_Most_Water.py (Arrays)
+10. Search in Rotated Sorted Array
 13. Group_Anagrams.py (Arrays & Hashing)
 38. Maximum_Product_Subarray.py (Array) / (Solved using Dynamic Programming)
 39. Find Minimum in Rotated Sorted Array
