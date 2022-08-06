@@ -4,6 +4,7 @@ I like to solve problems and I do the LeetCode problems solutions here to test m
 Easy:
 
 1. Two_Sum.py (Arrays)
+8. Merge_Two_Sorted_Lists.py (Linked List)
 14. Maximum_Subarray.py (Arrays)
 30. Best_Time_to_Buy_and_Sell_Stock.py (Arrays)/ Sliding Window
 50. Contains_Duplicat.py (Arrays)
