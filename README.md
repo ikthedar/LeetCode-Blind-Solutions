@@ -19,6 +19,7 @@ Counting_Bits.py
 41. Linked List Cycle (Linked List)
 
 32. Valid_Palindrome.py (String)
+56. Valid_Anagram.py 
 57. Meeting_Rooms.py (Intervals)
 26. Same_Tree.py
 
