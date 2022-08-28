@@ -26,6 +26,7 @@ Counting_Bits.py
 Medium:
 
 2. Longest_substring_without_repeating_characters.py (Sliding Window)
+6. Remove Nth Node From End of List.py
 4. Container_With_Most_Water.py (Arrays)
 10. Search in Rotated Sorted Array
 13. Group_Anagrams.py (Arrays & Hashing)
