@@ -30,6 +30,7 @@ Medium:
 4. Container_With_Most_Water.py (Arrays)
 10. Search in Rotated Sorted Array
 13. Group_Anagrams.py (Arrays & Hashing)
+29. Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py
 37. Reorder_List.py
 38. Maximum_Product_Subarray.py (Array) / (Solved using Dynamic Programming)
 39. Find Minimum in Rotated Sorted Array
