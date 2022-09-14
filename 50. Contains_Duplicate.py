@@ -13,4 +13,5 @@ class Solution:
         return False
             
            # Revised this question on Sept 14th
+            # Also revised the data structure Array; How to create a hashet in python
            
