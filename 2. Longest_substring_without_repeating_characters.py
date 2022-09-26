@@ -1,6 +1,6 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        charSet = set()
+        charSet = set() # we could have used lists/ any other DS here, why using Set? = Because of Set's times complexity?
         l = 0
         res = 0
         
