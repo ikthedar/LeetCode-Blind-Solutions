@@ -43,3 +43,7 @@ Spet 7th: Last worked 27 days ago
 Start by watching the Apna college DSA notes videos > motivated > Work 1/2 easy questions > apply job > be desciplined again
 Will keep doing for 20 straight days from Sept 11 to Sept 30.
 Spet 11: Revised the notes I wrote in Notion
+
+
+Sept 27: Studied contiously from mid sept.
+Need to Follow the Top 6 interview topics from now for 20 days.
