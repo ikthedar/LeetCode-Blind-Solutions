@@ -4,7 +4,7 @@ class Solution:
         # creating a helper function inside the original function
         def valid(node, left, right):
             if not node:
-                return True 
+                return True # in any binary search recursive function, if node is empty, that is a BST
             
             if not (node.val < right and node.val > left):
                 return False
